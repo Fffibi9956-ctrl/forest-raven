@@ -218,7 +218,7 @@ function loadRaven() {
     const loader = new THREE.GLTFLoader();
     
     // 🔴 ВАЖНО: Обновите эту ссылку на вашу модель в НОВОМ репозитории
-    const modelUrl = 'https://cdn.jsdelivr.net/gh/Fffibi9956-ctrl/raven---game/raven.glb';
+    const modelUrl = 'https://github.com/Fffibi9956-ctrl/forest-raven/raw/refs/heads/main/raven.glb';
     
     loader.load(
         modelUrl,
